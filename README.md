@@ -107,6 +107,7 @@ Native and Electron/Tauri apps. Better for diff review, multi-pane layouts and a
 
 Browser-based, which means team-shareable and reachable from any device without installing anything.
 
+- [Agent Factory](https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui) - open-source studio for building, editing and running AI agents. The ready-made agents are available in the shared agents-store repo.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban): Kanban board for managing AI coding agents — queue tasks, review diffs, and switch between Claude Code, Codex, Gemini and others per card. ![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=social)
 - [gastown](https://github.com/gastownhall/gastown): Scales to 20–30 concurrent agents with a coordinator and a merge queue, aimed at swarm-sized workloads. ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/gastown?style=social)
 - [OpenHands](https://github.com/OpenHands/OpenHands): Self-hostable platform for software development agents — the agent gets a browser, a terminal and an editor, and you watch it work in a web UI. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social)
