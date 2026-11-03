@@ -307,6 +307,7 @@ Not eligible for this list — it is an open-source list — but they define the
 - **[Kiro](https://kiro.dev/)** — AWS's spec-driven agentic IDE.
 - **[Google Antigravity](https://antigravity.google/)** — Agent-first IDE built around a browser-and-editor agent manager.
 - **[Jules](https://jules.google/)** — Google's asynchronous coding agent working from GitHub issues.
+- **[Mel](https://www.openmel.dev)** — The agentic team for coding: a multi-agent, multi-model AI terminal for Mac, Windows, Linux and VS Code, with configurable approvals. Proprietary; free with your own API key.
 
 ## Related Lists
 
